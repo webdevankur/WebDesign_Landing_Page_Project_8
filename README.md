@@ -11,7 +11,7 @@ WebDesign_Landing_Page_Project_8
 
 ## Project Thumbnail👇
 
-![thumbnail](https://github.com/webdevankur/Company_Landing_Page_Project_9/blob/main/9.png)
+![thumbnail](https://github.com/webdevankur/WebDesign_Landing_Page_Project_8/blob/main/thumbnail.png)
 
 
 ## What have i learned in this Project
