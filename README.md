@@ -17,9 +17,9 @@ WebDesign_Landing_Page_Project_8
 ## What have i learned in this Project
 •	CSS Flexbox
 
-•	Background image and its properties
+•	Shape Transform:rotate
 
-•	picking color from an image to implement on my website
+•	Z-index
 
 •	Button customization
 
